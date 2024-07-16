@@ -8,9 +8,9 @@
 
   A verdade é que entrei nesse mundo da tecnologia querendo aprender a formatar computador, mas na primeira matéria que aprendi no curso Técnico, lógica de programação, me fez conhecer um novo horizonte a buscar e que me deixa cada dia mais e mais apaixonado. 
   
-  Formato em Sistema da Computação pela Faculdade Pitágoras. Com essa paixão, fui capaz de contribuir com vários projetos que trouxeram não só uma grande realização pessoal mais também eficiência nas atividades das empresas em que trabalhei. E assim, continuamos em busca de desafios que traga aquela realização que qualquer programador tem quando ver uma aplicação sua funcionando.
+  Com essa paixão, me formei em Sistema da Computação pela Faculdade Pitágoras e fui capaz de contribuir com vários projetos que trouxeram não só uma grande realização pessoal mais também eficiência nas atividades das empresas em que trabalhei. E assim, continuamos em busca de desafios que traga aquela realização que qualquer programador tem quando ver uma aplicação sua funcionando.
 
-  Como hoby, gosto de assistir animes (My Hero Academia), séries (Dark) e filmes (Harry Potter) e ler livros (O Pequeno Príncipe) e mangás (One Piece). E aquela atividade básica que não pode faltar, um bom jogo (Definitivamente Zelda).
+  Como hobby, gosto de assistir animes (My Hero Academia), séries (Dark) e filmes (Harry Potter) e ler livros (O Pequeno Príncipe) e mangás (One Piece). E aquela atividade básica que não pode faltar, um bom jogo (Definitivamente Zelda).
 
 </td></tr>
 </table>
