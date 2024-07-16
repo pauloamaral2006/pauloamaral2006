@@ -23,9 +23,15 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" title="Git"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="40" height="40" title="GitHub"/>
           
 
-### Experiências
+### Projetos Desenvolvidos
+Através do VBA (Visual Basic for Applications) e utilizando os recursos da Microsoft (Excel e Access), desenvolvi pequenas aplicações que trouxeram ganho tanto em tempo como em qualidade das informações.
 
-- 💻 Analiste de Sistema (BRZ Emrpeendimentos e Abertta Saúde).
+- Em 2013, na Cemig Distribuição S.A., o Trox (Controle e Avaliação de Treinamentos Internos dos 
+Empregados) utilizado pela área de Recursos Humanos da DDC (Discagem Direta a Cobrar) foi considerado um dos 7 pontos fortes da empresa pela organização internacional de certificação em normas, Bureau Veritas.
+
+- De 2016 até 2024, na BRZ Empreendimentos S.A., desenvolvi melhorias e implantações do SCE (Sistema de Controle de Estoque) e SCM (Sistema de Controle de Medições) utilizado pelas obras proporcionando um controle melhor, trazendo qualidade das informações e redução de tempo em algumas atividades manuais.
+
+- Em 2022, na Abertta Saúde, através da tecnologia da Benner Sitemas S.A., contribuí com o desenvolvimento da automação da Avaliação dos Prestadores Administrativos da área de Governança, Risco e Complice que foi selecionada com uma das 7 melhores iniciativas de boas práticas da empresa.
   
 ### Contatos:
 <div> 
